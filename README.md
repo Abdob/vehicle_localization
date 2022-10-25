@@ -1,3 +1,9 @@
+## Dependencies
+```
+carla-simulator 0.9.10-2
+
+```
+
 ```
 cd /home/workspace/c3-project
 cmake .
